@@ -1,0 +1,52 @@
+h2 {
+    font-family : 'Gill sans';
+    color: yellow;
+}
+/* .block1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.block{
+    width: 200px;
+    height: 200px;
+    background-color: yellow; */
+}
+/* .block1, .block2 {
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+} */
+/* #block3 {
+    width: 200px;
+    height: 200px;
+    background-color: grey;}
+
+.block6 {
+        width: 200px;
+        height: 200px;
+        background-color: grey !important;
+} */
+#block4 {
+        width: 200px;
+        height: 200px;
+        background-color: grey;
+        border: red solid 3px;
+}
+.parent {
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+    border: red solid 3px;
+    background: url('사진')no-repeat center center;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.son1, .son2, .son3, .son4 {
+background-color: indigo;
+border: 3px solid purple;
+}
